@@ -1,18 +1,14 @@
 package za.acCPUT.Factory;
 
-import za.acCPUT.Domain.Employee;
 import za.acCPUT.Domain.Gender;
-import za.acCPUT.Domain.Race;
-import za.acCPUT.Util.IdGenerator;
 
 public class GenderFactory
 {
 
-    public static Gender getGender(String gender)
+    public static Gender getGender(String genderId)
     {
         return new Gender.Builder()
-                .genderId(IdGenerator.idGenerate())
-                .gender(gender)
+                .genderId(genderId)
                 .build();
     }
 }

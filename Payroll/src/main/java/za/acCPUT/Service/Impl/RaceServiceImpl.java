@@ -14,6 +14,11 @@ public class RaceServiceImpl implements RaceService
     private static RaceServiceImpl service = null;
     private RaceRepo repository;
 
+    public RaceServiceImpl()
+    {
+        this.repository = RaceRepoImpl.getRepository();
+    }
+
     public static RaceServiceImpl  getService()
     {
         if(service == null)
@@ -23,10 +28,7 @@ public class RaceServiceImpl implements RaceService
         return service;
     }
 
-    private RaceServiceImpl()
-    {
-        this.repository = RaceRepoImpl.getRepository();
-    }
+
 
 
     @Override

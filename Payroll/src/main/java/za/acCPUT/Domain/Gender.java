@@ -16,6 +16,14 @@ public class Gender
     public String getGenderId(){return genderId;}
     public String getGender()
     {
+        if(genderId == "CO1")
+        {
+            gender = "Male";
+        }
+        else if(genderId == "CO2")
+        {
+            gender = "Female";
+        }
         return gender;
     }
 
