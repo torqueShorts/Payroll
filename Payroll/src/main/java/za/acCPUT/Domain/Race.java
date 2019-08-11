@@ -20,6 +20,18 @@ public class Race {
 
     public String getRace()
     {
+        if(raceId == "30A")
+        {
+            race = "Black";
+        }
+        else if(raceId == "30B")
+        {
+            race = "White";
+        }
+        else if(raceId == "30C")
+        {
+            race = "Coloured";
+        }
         return race;
     }
 

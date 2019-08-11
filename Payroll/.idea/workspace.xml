@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9368866c-1965-49b5-9924-ea07cdf65ed5" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="Arquillian JUnit Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1OztQIX8HT8t1Vf8P1M5rXQt1H6" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Arquillian JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/za" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="za.acCPUT.Repository.Impl.Employee" />
+      <recent name="za.acCPUT.Repository.Impl" />
+      <recent name="za.acCPUT.Factory" />
+      <recent name="za.acCPUT.Factory.Employee" />
+      <recent name="za.acCPUT.Service.Impl" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="za.acCPUT.Factory.Employee" />
+      <recent name="za.acCPUT" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Tania\IdeaProjects\Payroll\acCPUT\src\main\java" />
+      <recent name="C:\Users\Tania\IdeaProjects\Payroll\acCPUT" />
+      <recent name="C:\Users\Tania\IdeaProjects\Payroll" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.EmployeeRepoImplTest.delet">
+    <configuration name="EmployeeRepoImplTest.delet" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Payroll" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="za.acCPUT.Repository.Impl.Employee.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="za.acCPUT.Repository.Impl.Employee" />
+      <option name="MAIN_CLASS_NAME" value="za.acCPUT.Repository.Impl.Employee.EmployeeRepoImplTest" />
+      <option name="METHOD_NAME" value="delet" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GenderRepoImplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Payroll" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="za.acCPUT.Repository.Impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="za.acCPUT.Repository.Impl" />
+      <option name="MAIN_CLASS_NAME" value="za.acCPUT.Repository.Impl.GenderRepoImplTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GenderRepoImplTest.update" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Payroll" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="za.acCPUT.Repository.Impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="za.acCPUT.Repository.Impl" />
+      <option name="MAIN_CLASS_NAME" value="za.acCPUT.Repository.Impl.GenderRepoImplTest" />
+      <option name="METHOD_NAME" value="update" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RaceRepoImplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Payroll" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="za.acCPUT.Repository.Impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="za.acCPUT.Repository.Impl" />
+      <option name="MAIN_CLASS_NAME" value="za.acCPUT.Repository.Impl.RaceRepoImplTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SaveEmployeeServiceImplTest.creat" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Payroll" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="za.acCPUT.Service.Impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="za.acCPUT.Service.Impl" />
+      <option name="MAIN_CLASS_NAME" value="za.acCPUT.Service.Impl.SaveEmployeeServiceImplTest" />
+      <option name="METHOD_NAME" value="creat" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.EmployeeRepoImplTest.delet" />
+        <item itemvalue="JUnit.RaceRepoImplTest" />
+        <item itemvalue="JUnit.GenderRepoImplTest" />
+        <item itemvalue="JUnit.GenderRepoImplTest.update" />
+        <item itemvalue="JUnit.SaveEmployeeServiceImplTest.creat" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9368866c-1965-49b5-9924-ea07cdf65ed5" name="Default Changelist" comment="" />
+      <created>1564992235042</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1564992235042</updated>
+      <workItem from="1564992238628" duration="18156000" />
+      <workItem from="1565249636831" duration="23686000" />
+      <workItem from="1565523393626" duration="7264000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Payroll$EmployeeFactoryTest_buildEmployee.ic" NAME="EmployeeFactoryTest.buildEmployee Coverage Results" MODIFIED="1565004511678" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>za.acCPUT.Factory.*</FILTER>
+    </SUITE>
+  </component>
+</project>

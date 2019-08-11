@@ -5,11 +5,10 @@ import za.acCPUT.Util.IdGenerator;
 
 public class RaceFactory
 {
-    public static Race getRace(String race)
+    public static Race getRace(String raceId)
     {
         return new Race.Builder()
-                .raceId(IdGenerator.idGenerate())
-                .race(race)
+                .raceId(raceId)
                 .build();
     }
 }

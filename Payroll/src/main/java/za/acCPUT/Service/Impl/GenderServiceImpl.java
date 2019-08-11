@@ -12,7 +12,7 @@ public class GenderServiceImpl implements GenderService {
     private static GenderServiceImpl service = null;
     private GenderRepo repository;
 
-    private GenderServiceImpl()
+    public GenderServiceImpl()
     {
         this.repository = GenderRepoImpl.getRepository();
     }
